@@ -1,7 +1,7 @@
 import pytest
 from source import shapes
 
-# Creation of the fixtures
+# Creation of the fixtures using files
 
 @pytest.fixture
 def my_rectangle():
